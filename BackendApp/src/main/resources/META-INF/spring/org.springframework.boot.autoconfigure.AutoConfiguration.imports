@@ -1,0 +1,3 @@
+com.rappitgithub.rtyui.config.ApplicationRepositoriesAutoConfiguration
+com.rappitgithub.rtyui.config.ApplicationTransactionManagersAutoConfig
+com.rappitgithub.rtyui.config.ApplicationProvidersAutoConfiguration
